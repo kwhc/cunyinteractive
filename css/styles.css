@@ -107,6 +107,11 @@ a:hover#assignment__1{
   display:block;
   margin: 0 auto;
 }
+.byline__block{
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom:6rem;
+}
 @media (min-width: 576px) {
  }
 
