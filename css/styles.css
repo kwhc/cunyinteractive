@@ -97,6 +97,9 @@ a:hover#assignment__1{
 .story__body__container{
   width:100%;
 }
+.assignment__header h1{
+  font-size: 4rem;
+}
 .story__block{
   font-size: 1.5rem;
   text-align: center;
@@ -109,8 +112,11 @@ a:hover#assignment__1{
 }
 .byline__block{
   text-align: center;
-  text-transform: uppercase;
   margin-bottom:6rem;
+}
+.byline__block .byline{
+    text-transform: uppercase;
+    display: block;
 }
 @media (min-width: 576px) {
  }
