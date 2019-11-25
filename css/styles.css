@@ -85,6 +85,10 @@ a:hover#assignment__1{
 #assignment__2{
   border-color: #0B3559;
 }
+a:hover#assignment__2{
+  background-color: #0B3559;
+  color:#ededed;
+}
 #assignment__3{
   border-color: #6A2C73;
 }
