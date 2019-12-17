@@ -92,6 +92,10 @@ a:hover#assignment__2{
 #assignment__3{
   border-color: #6A2C73;
 }
+a:hover#assignment__3{
+  background-color: #6A2C73;
+  color:#ededed;
+}
 .assignment__id{
   float: right;
 }
